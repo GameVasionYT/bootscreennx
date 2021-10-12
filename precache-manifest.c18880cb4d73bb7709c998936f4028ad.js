@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a1fe349835cdc6afb78cb9e1a026768",
+    "revision": "ed8470b3dbc5d6c4b78863e4d6d1308b",
     "url": "/bootscreennx/index.html"
   },
   {
-    "revision": "ccdb736a08786ede5cec",
+    "revision": "539073b9261c8d5eb302",
     "url": "/bootscreennx/static/css/main.1661d9ac.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bootscreennx/static/js/2.0a6bb398.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ccdb736a08786ede5cec",
-    "url": "/bootscreennx/static/js/main.c9aa7477.chunk.js"
+    "revision": "539073b9261c8d5eb302",
+    "url": "/bootscreennx/static/js/main.06f366a5.chunk.js"
   },
   {
     "revision": "bedebfeda838c36c2d91",
